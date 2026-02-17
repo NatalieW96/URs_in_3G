@@ -20,5 +20,5 @@ This repository contains scripts used to explore the biases arising from differe
 - `EOS/` — EOS data generated for this paper  
 - `notebooks/` — Notebooks creating the figures for the paper.  
 
-## PE Samples
+## Parameter Estimation Posteriors
 PE samples are available on zenodo here
